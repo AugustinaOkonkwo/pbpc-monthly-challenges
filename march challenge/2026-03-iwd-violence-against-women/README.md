@@ -46,7 +46,7 @@ Submit ONE of:
 - Screenshots + insight summary
 - Publish-to-Web Power BI link
 
-Deadline: **March 21, 2026**
+Deadline: **March 25, 2026**
 
 Submission form: (ADD LINK)
 
